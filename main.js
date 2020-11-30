@@ -12,3 +12,5 @@ function checkForFriday(day){
 }// end of checkForFriday
 
 checkForFriday(today);
+
+window.navigator.vibrate([100,200,300]);
